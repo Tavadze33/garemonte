@@ -1,0 +1,21 @@
+<!DOCTYPE html>
+<html lang="ka">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
+  <title>AllServisGeo</title>
+  <link rel="stylesheet" href="style.css"/>
+</head>
+<body>
+  <header>
+    <img src="images/logo.png" alt="AllServisGeo Logo" class="logo"/>
+  </header>
+
+  <main>
+    <div class="buttons">
+      <a href="electronics.html" class="service-btn">ელექტრონული სერვისები</a>
+      <a href="ac.html" class="service-btn">კონდიციონერის მონტაჟი</a>
+    </div>
+  </main>
+</body>
+</html>
